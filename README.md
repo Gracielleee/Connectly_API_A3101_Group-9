@@ -14,6 +14,11 @@ py manage.py runserver
 ```
 </br>
 
+## Testing
+[Postman Results](https://drive.google.com/drive/folders/1yMSuJcEYoYMgY_wZxQMEpbfvnJyOvkg9?usp=sharing)
+
+</br>
+
 ## Members
 - Igdanes, Q.
 - Portillo, J.R
